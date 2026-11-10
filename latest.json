@@ -1,6 +1,6 @@
 {
- "version": "0.11.4",
- "apk": "apk/MonPlanning-0.11.4.apk",
- "size": 3109126,
- "notes": "- Mise à jour : après l'autorisation Android (demandée une seule fois), l'installation continue toute seule.\n- Le message « N modifications détectées » ne s'affiche plus qu'une fois."
+ "version": "0.12.0",
+ "apk": "apk/MonPlanning-0.12.0.apk",
+ "size": 3109130,
+ "notes": "- Vue Mois : toucher un jour ouvre son détail dans un panneau, comme en vue Semaine.\n- Bouton « Évènement » disponible en vue Mois."
 }
