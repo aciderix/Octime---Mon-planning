@@ -1,6 +1,6 @@
 {
- "version": "0.11.1",
- "apk": "apk/MonPlanning-0.11.1.apk",
+ "version": "0.11.2",
+ "apk": "apk/MonPlanning-0.11.2.apk",
  "size": 3109126,
- "notes": "- Mises à jour intégrées : l'app vérifie ce dépôt et propose d'installer les nouvelles versions.\n- Demandes d'absence : recherche dans les motifs, motifs les plus courants en premier.\n- Détection des motifs qui se posent uniquement en heures."
+ "notes": "- Mode sombre : l'écran « Connecter votre agenda » est de nouveau lisible.\n- Mises à jour intégrées à l'app."
 }
