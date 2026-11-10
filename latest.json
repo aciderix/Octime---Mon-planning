@@ -1,6 +1,6 @@
 {
- "version": "0.11.2",
- "apk": "apk/MonPlanning-0.11.2.apk",
- "size": 3109126,
- "notes": "- Mode sombre : l'écran « Connecter votre agenda » est de nouveau lisible.\n- Mises à jour intégrées à l'app."
+ "version": "0.11.3",
+ "apk": "apk/MonPlanning-0.11.3.apk",
+ "size": 3109130,
+ "notes": "- Le message « N modifications détectées » ne s'affiche plus qu'une fois, à la fin d'une synchronisation.\n- Mode sombre : écran « Connecter votre agenda » lisible."
 }
