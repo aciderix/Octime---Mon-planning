@@ -1,6 +1,6 @@
 {
- "version": "0.12.0",
- "apk": "apk/MonPlanning-0.12.0.apk",
- "size": 3109130,
- "notes": "- Vue Mois : toucher un jour ouvre son détail dans un panneau, comme en vue Semaine.\n- Bouton « Évènement » disponible en vue Mois."
+ "version": "0.13.0",
+ "apk": "apk/MonPlanning-0.13.0.apk",
+ "size": 3141898,
+ "notes": "- Thèmes de couleurs au choix : Coloré, Sobre, Professionnel, Contraste élevé (Réglages › Affichage › Couleurs).\n- Export PDF : période au choix, vue annuelle / mensuelle / les deux, grands caractères, couleurs du PDF.\n- Export pour des collègues, un ou plusieurs à la fois."
 }
