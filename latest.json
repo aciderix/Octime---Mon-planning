@@ -1,6 +1,6 @@
 {
- "version": "0.13.0",
- "apk": "apk/MonPlanning-0.13.0.apk",
- "size": 3141898,
- "notes": "- Thèmes de couleurs au choix : Coloré, Sobre, Professionnel, Contraste élevé (Réglages › Affichage › Couleurs).\n- Export PDF : période au choix, vue annuelle / mensuelle / les deux, grands caractères, couleurs du PDF.\n- Export pour des collègues, un ou plusieurs à la fois."
+ "version": "0.13.1",
+ "apk": "apk/MonPlanning-0.13.1.apk",
+ "size": 3141894,
+ "notes": "- Équipe, vue Jour : les flèches passent à la semaine précédente / suivante ; le jour se choisit dans la bande des 7 jours."
 }
