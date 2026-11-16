@@ -1,6 +1,6 @@
 {
- "version": "0.13.1",
- "apk": "apk/MonPlanning-0.13.1.apk",
+ "version": "0.13.2",
+ "apk": "apk/MonPlanning-0.13.2.apk",
  "size": 3141894,
- "notes": "- Équipe, vue Jour : les flèches passent à la semaine précédente / suivante ; le jour se choisit dans la bande des 7 jours."
+ "notes": "- Agenda du téléphone : vos postes s'affichent avec leurs horaires (« Matin · 06:45–14:15 ») au lieu du code, y compris dans le widget de l'horloge."
 }
