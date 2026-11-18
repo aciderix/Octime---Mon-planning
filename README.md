@@ -8,17 +8,18 @@ Ce dépôt ne contient que les versions publiées de l'app (aucun code ni aucune
 
 ## Installer
 
-1. Sur le téléphone, ouvrir [apk/MonPlanning-0.13.2.apk](apk/MonPlanning-0.13.2.apk) puis « Download raw file ».
+1. Sur le téléphone, ouvrir [apk/MonPlanning-0.13.3.apk](apk/MonPlanning-0.13.3.apk) puis « Download raw file ».
 2. Ouvrir le fichier téléchargé ; Android demande d'autoriser l'installation depuis le navigateur : accepter.
 3. Se connecter avec ses identifiants Octime habituels (ils restent sur le téléphone).
 
 Les versions suivantes se proposent d'elles-mêmes dans l'app (Réglages › Application › Rechercher une mise à jour).
 
-Empreinte SHA-256 de l'APK 0.13.2 : `838d09cc5dc292eed7c854f126f7d8827483bcf17c061ce7388c16a2ccb374b0`
+Empreinte SHA-256 de l'APK 0.13.3 : `76c20b4580b073564957b319f80597377da1790c935a341aa3b23f7057f82919`
 Certificat de signature (SHA-256) : `012af8755b51ec3b7401d43d3c5190822a028a4af81e8d29068f55752ea03642`
 
 ## Versions
 
+- **0.13.3** — agenda de copie désactivé ou supprimé détecté et signalé ; réglages agenda clarifiés.
 - **0.13.2** — agenda du téléphone : postes affichés avec leurs horaires plutôt que le code.
 - **0.13.1** — Équipe, vue Jour : les flèches changent de semaine.
 - **0.13.0** — thèmes de couleurs (dont contraste élevé) ; export PDF par période, grands caractères, pour des collègues.
